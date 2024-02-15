@@ -1,8 +1,4 @@
-<style>
-  .normal-text {
-    font-weight: normal;
-  }
-</style>
+
 
 <h1>Hi, I'm Lorenz!</h1>
 <p class="normal-text">I'm interested in data science and quantitative social sciences. </p>
