@@ -1,16 +1,13 @@
-### Hi there 👋
+<style>
+  .normal-text {
+    font-weight: normal;
+  }
+</style>
 
-<!--
-**LorenzEh/LorenzEh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Lorenz!</h1>
+<p class="normal-text">I'm interested in data science and quantitative social sciences. </p>
+<h2>Data Science Projects:</h2>
 
-Here are some ideas to get you started:
+<h2>Data Science Project:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>U.S. County-Level Data Retrieval from the ACS-5 API & basic Data Exploration</b>
