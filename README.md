@@ -7,3 +7,6 @@
 
 - <b>U.S. County-Level Data Retrieval from the ACS-5 API & Basic Data Exploration</b>
   - [ACS-5](https://github.com/LorenzEh/ACS-5)
+
+- <b>Vaccine Hesitancy: Generate Text from Survey data</b>
+  - [ACS-5](https://github.com/LorenzEh/ACS-5)
