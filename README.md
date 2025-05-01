@@ -9,4 +9,4 @@
   - [ACS-5](https://github.com/LorenzEh/ACS-5)
 
 - <b>Vaccine Hesitancy: Generate Text from Survey data</b>
-  - [ACS-5](https://github.com/LorenzEh/ACS-5)
+  - [LLM-Vaccine_Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
