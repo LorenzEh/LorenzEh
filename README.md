@@ -7,6 +7,9 @@
 
 - <b>U.S. County-Level Data Retrieval from the ACS-5 API & Basic Data Exploration</b>
   - [ACS-5](https://github.com/LorenzEh/ACS-5)
+ 
+- <b>Weighted-Clustering with Data Quality Integration</b>
+  - [Weighted KMeans](https://github.com/LorenzEh/Weighted-Clustering)
 
 - <b>Vaccine Hesitancy: Generate Text from Survey data</b>
   - [LLM-Vaccine_Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
