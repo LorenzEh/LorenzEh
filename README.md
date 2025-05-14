@@ -14,5 +14,5 @@
   - *External Drift Kriging using GS Tools*
     - [External Drift Kriging](https://github.com/LorenzEh/ExternalDriftKriging/tree/main)
 
-- <b>Vaccine Hesitancy: Generate Text from Survey data</b>
+- <b>Vaccine Hesitancy: Generate Text from Survey data using LLMs</b>
   - [LLM Vaccine Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
