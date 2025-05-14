@@ -10,6 +10,9 @@
 
   - *Weighted-Clustering with Data Quality Integration*
     - [Weighted KMeans](https://github.com/LorenzEh/Weighted-Clustering)
+   
+  - *External Drift Kriging using GS Tools*
+    - [External Drift Kriging](https://github.com/LorenzEh/ExternalDriftKriging/tree/main)
 
 - <b>Vaccine Hesitancy: Generate Text from Survey data</b>
-  - [LLM-Vaccine_Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
+  - [LLM Vaccine Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
