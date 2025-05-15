@@ -1,7 +1,7 @@
 
 
 <h1>Hi, I'm Lorenz!</h1>
-<p class="normal-text">I'm interested in data science , quantitative social sciences, and GIS. This site is still in construction as I'm uploading and modifying my projects to make them fit for GitHub. Cheers! </p>
+<p class="normal-text">I'm interested in data science , quantitative social sciences, and spatial analysis. This site is still in construction as I'm uploading and modifying my projects to make them fit for GitHub. Cheers! </p>
 <h2>Projects:</h2>
 
 - **Spatial:**
