@@ -16,3 +16,6 @@
 
 - <b>Vaccine Hesitancy: Generate Text from Survey data using LLMs</b>
   - [LLM Vaccine Hesitancy](https://github.com/LorenzEh/LLM-Vaccine-Hesitency)
+
+- <b>Tweet Classification: LLM to classify political tweets</b>
+  - [LLM Tweet Classification](https://github.com/LorenzEh/Tweet-Classification/tree/main)
