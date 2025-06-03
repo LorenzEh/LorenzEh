@@ -19,3 +19,6 @@
 
 - <b>Tweet Classification: Political Tweet Classification using LLMs</b>
   - [LLM Tweet Classification](https://github.com/LorenzEh/Tweet-Classification/tree/main)
+
+- <b>Exploring a basic Neural Network: Explaining Back Propagation based on Number Identification</b>
+  - [Basic Neural Network](https://github.com/LorenzEh/Basic-Neural-Network)
