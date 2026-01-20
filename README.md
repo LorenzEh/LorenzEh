@@ -1,8 +1,12 @@
 
 
-<h1>Hi, I'm Lorenz!</h1>
-<p class="normal-text">I'm interested in data science, quantitative social sciences, and spatial analysis. This site is still in construction as I'm uploading and modifying my projects to make them fit for GitHub. Cheers! </p>
-<h2>Projects:</h2>
+# Hi, I'm Lorenz! :beers:
+
+I am a PhD candidate at the University of Vienna, currently working on the project [Harnessing AI to Strengthen Vaccination Communication](https://www.meduniwien.ac.at/web/en/research/research-projects/inter-university-clusterprojects-of-uni-vienna-and-meduni-vienna/harnessing-ai-to-strengthen-vaccination-communication/).
+
+During my Master's, I developed a strong interest in **Public Health** with a focus on **Exploratory Spatial Data Analysis (ESDA)**. My current research has evolved toward modeling **human behavior** and **societal dynamics** by leveraging a hybrid toolkit of **Machine Learning** and **quantitative social science**.
+
+# Here are some of my projects:
 
 - **Spatial:**
   - *U.S. County-Level Data Retrieval from the ACS-5 API & Basic Data Exploration*
