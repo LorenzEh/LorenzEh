@@ -4,7 +4,7 @@
 
 I am a PhD candidate at the University of Vienna, currently working on the project [Harnessing AI to Strengthen Vaccination Communication](https://www.meduniwien.ac.at/web/en/research/research-projects/inter-university-clusterprojects-of-uni-vienna-and-meduni-vienna/harnessing-ai-to-strengthen-vaccination-communication/).
 
-During my Master’s, I developed an interest in Public Health with a focus on various kinds of spatial data analysis, while also gaining experience in IT projects. Since then, my interests have shifted toward understanding, modeling, and simulating human behavior. I leverage a toolkit of ML and quantitative social science, recently expanding my work to include LLMs.
+During my Master’s, I developed an interest in Public Health with a focus on spatial data analysis, while also gaining experience in IT projects. Since then, my interests have shifted toward understanding, modeling, and simulating human behavior. I leverage a toolkit of ML and quantitative social science, recently expanding my work to include LLMs.
 
 # Here are some of my projects:
 
